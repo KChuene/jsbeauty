@@ -1,5 +1,5 @@
 # jsbeauty
-Python jsbeautify wrapper script for quick use 
+Python jsbeautify wrapper script for quick use. Checkout the `jsbeautifier` repo [here](https://github.com/beautifier/js-beautify), if you will.
 
 ## General usage
 ```
