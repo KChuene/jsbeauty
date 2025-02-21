@@ -69,6 +69,6 @@ if __name__=="__main__":
     else:
         files = args[1:]
 
-    print("(info) Beautifying {len(files)} file(s).")
+    print(f"(info) Beautifying {len(files)} file(s).")
     beautifyall(files)
     print("(info) Done.")
